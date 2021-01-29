@@ -1,107 +1,107 @@
 [
   {
-    "Customer ID": 101,
-    "Customer Name": "Murdoch",
-    "City": "Ponta Grossa",
-    "PIN": 8183,
-    "State Code": "PR"
+    "custid": 101,
+    "custname": "Murdoch",
+    "city": "Ponta Grossa",
+    "pin": 8183,
+    "state": "PR"
   },
   {
-    "Customer ID": 102,
-    "Customer Name": "Ramona",
-    "City": "Cairns",
-    "PIN": 8184,
-    "State Code": "Queensland"
+    "custid": 102,
+    "custname": "Ramona",
+    "city": "Cairns",
+    "pin": 8184,
+    "state": "Queensland"
   },
   {
-    "Customer ID": 103,
-    "Customer Name": "Verner",
-    "City": "Sitapur",
-    "PIN": 8185,
-    "State Code": "UP"
+    "custid": 103,
+    "custname": "Verner",
+    "city": "Sitapur",
+    "pin": 8185,
+    "state": "UP"
   },
   {
-    "Customer ID": 104,
-    "Customer Name": "Johanne",
-    "City": "Malegaon",
-    "PIN": 8186,
-    "State Code": "Maharastra"
+    "custid": 104,
+    "custname": "Johanne",
+    "city": "Malegaon",
+    "pin": 8186,
+    "state": "Maharastra"
   },
   {
-    "Customer ID": 105,
-    "Customer Name": "Marita",
-    "City": "Apartad",
-    "PIN": 8187,
-    "State Code": "ANT"
+    "custid": 105,
+    "custname": "Marita",
+    "city": "Apartad",
+    "pin": 8187,
+    "state": "ANT"
   },
   {
-    "Customer ID": 106,
-    "Customer Name": "Brynlee",
-    "City": "Novgorod",
-    "PIN": 8188,
-    "State Code": "Novgorod Oblast"
+    "custid": 106,
+    "custname": "Brynlee",
+    "city": "Novgorod",
+    "pin": 8188,
+    "state": "Novgorod Oblast"
   },
   {
-    "Customer ID": 107,
-    "Customer Name": "Datu",
-    "City": "Osgoode",
-    "PIN": 8189,
-    "State Code": "Ontario"
+    "custid": 107,
+    "custname": "Datu",
+    "city": "Osgoode",
+    "pin": 8189,
+    "state": "Ontario"
   },
   {
-    "Customer ID": 108,
-    "Customer Name": "Darrell",
-    "City": "Celaya",
-    "PIN": 8190,
-    "State Code": "Guanajuato"
+    "custid": 108,
+    "custname": "Darrell",
+    "city": "Celaya",
+    "pin": 8190,
+    "state": "Guanajuato"
   },
   {
-    "Customer ID": 109,
-    "Customer Name": "Quintilian",
-    "City": "Villenave-d'Ornon",
-    "PIN": 8191,
-    "State Code": "AQ"
+    "custid": 109,
+    "custname": "Quintilian",
+    "city": "Villenave-d'Ornon",
+    "pin": 8191,
+    "state": "AQ"
   },
   {
-    "Customer ID": 110,
-    "Customer Name": "Kiana",
-    "City": "Redcliffe",
-    "PIN": 8192,
-    "State Code": "Queensland"
+    "custid": 110,
+    "custname": "Kiana",
+    "city": "Redcliffe",
+    "pin": 8192,
+    "state": "Queensland"
   },
   {
-    "Customer ID": 111,
-    "Customer Name": "Slavom",
-    "City": "Minatitln",
-    "PIN": 8193,
-    "State Code": "Veracruz"
+    "custid": 111,
+    "custname": "Slavom",
+    "city": "Minatitln",
+    "pin": 8193,
+    "state": "Veracruz"
   },
   {
-    "Customer ID": 112,
-    "Customer Name": "Mariyam",
-    "City": "Trollhttan",
-    "PIN": 8194,
-    "State Code": "Vastra Gtalands ln"
+    "custid": 112,
+    "custname": "Mariyam",
+    "city": "Trollhttan",
+    "pin": 8194,
+    "state": "Vastra Gtalands ln"
   },
   {
-    "Customer ID": 113,
-    "Customer Name": "Aminah",
-    "City": "Campos dos Goytacazes",
-    "PIN": 8195,
-    "State Code": "Rio de Janeiro"
+    "custid": 113,
+    "custname": "Aminah",
+    "city": "Campos dos Goytacazes",
+    "pin": 8195,
+    "state": "Rio de Janeiro"
   },
   {
-    "Customer ID": 114,
-    "Customer Name": "Afrodita",
-    "City": "Moio Alcantara",
-    "PIN": 8196,
-    "State Code": "SIC"
+    "custid": 114,
+    "custname": "Afrodita",
+    "city": "Moio Alcantara",
+    "pin": 8196,
+    "state": "SIC"
   },
   {
-    "Customer ID": 115,
-    "Customer Name": "Raimondo",
-    "City": "Kemerovo",
-    "PIN": 8197,
-    "State Code": "Kemerovo Oblast"
+    "custid": 115,
+    "custname": "Raimondo",
+    "city": "Kemerovo",
+    "pin": 8197,
+    "state": "Kemerovo Oblast"
   }
 ]
